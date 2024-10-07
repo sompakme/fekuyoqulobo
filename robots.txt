@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fekuyoqulobo.pages.dev/sitemap.xml
